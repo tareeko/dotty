@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Dotty</title>
+    <link>https://github.com/tareeko/dotty</link>
+    <description>Updates for Dotty, a Mac menu bar app for 32x32 iPixel LED screens.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Sun, 25 Oct 2026 21:15:58 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dotty now keeps itself up to date. It looks for a new version once a day, and Settings, Updates has a button to check now.</li><li>Settings shows which version you&#x27;re running.</li></ul>]]></description>
+      <enclosure url="https://github.com/tareeko/dotty/releases/download/v1.0.1/Dotty.dmg" length="4579558" type="application/octet-stream"
+        sparkle:edSignature="RpzFSa7l2FSALImE1GlpRn6Qm8B1PH/YjqpFY7bb3CZPNdlXWOjbDpVEj9u4mdpf3h3MHlMwEN02CTTmOx2vCw=="/>
+    </item>
+  </channel>
+</rss>
