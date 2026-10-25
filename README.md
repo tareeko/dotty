@@ -2,7 +2,7 @@
 
 Dotty is a Mac menu bar app for 32x32 iPixel LED screens. Put the screen on your desk facing the room, and it tells people whether to come over: In a meeting, Deep focus, Back soon, or your own words. The rest of the time it's a clock.
 
-**[Download Dotty](https://github.com/tareeko/dotty/releases/latest/download/Dotty.dmg)** · **[Buy a license, $25](https://led.tareknology.com/buy)**
+**[Download Dotty](https://github.com/tareeko/dotty/releases/latest/download/Dotty.dmg)** · **[Buy a license](https://led.tareknology.com/buy)**
 
 ## What it does
 
@@ -21,7 +21,7 @@ Dotty is a Mac menu bar app for 32x32 iPixel LED screens. Put the screen on your
 
 ## Price
 
-Everything works free for 14 days. After that the clock keeps working, and statuses, focus sessions and media need a license: $25 once, for up to 3 of your Macs. The key arrives by email after you pay.
+Everything works free for 14 days. After that the clock keeps working, and statuses, focus sessions and media need a license: $15 once, for up to 3 of your Macs. The key arrives by email after you pay.
 
 ## Installing
 
