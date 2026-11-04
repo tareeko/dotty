@@ -6,6 +6,16 @@
     <description>Updates for Dotty, a Mac menu bar app for 32x32 iPixel LED screens.</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.5</title>
+      <pubDate>Wed, 04 Nov 2026 18:53:01 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Clocks and statuses are now grids of pictures, your own statuses included.</li><li>The status builder opens beside the menu, not behind it.</li><li>A new panel shows what&#x27;s going to the screen: drawing, sending with a progress bar, then a countdown to when it starts.</li><li>Clocks start on time to within a tenth of a second, without being sent a second time to correct them.</li><li>Restarting Dotty no longer interrupts a clock that&#x27;s already playing.</li><li>Clock faces with seconds now refresh once an hour instead of every 3 minutes, so the screen stays steady.</li></ul>]]></description>
+      <enclosure url="https://github.com/tareeko/dotty/releases/download/v1.0.5/Dotty.dmg" length="5108187" type="application/octet-stream"
+        sparkle:edSignature="N4frVG05HMrvXZmlZGgeXqHWesU2vdr5fF+sJUEVo4f0Ip3GCVYHpPvEtTI3sZisL7unlebupHy4CmNqIerLAQ=="/>
+    </item>
+    <item>
       <title>Version 1.0.4</title>
       <pubDate>Wed, 04 Nov 2026 16:16:18 GMT</pubDate>
       <sparkle:version>13</sparkle:version>
