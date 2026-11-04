@@ -6,6 +6,16 @@
     <description>Updates for Dotty, a Mac menu bar app for 32x32 iPixel LED screens.</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Wed, 04 Nov 2026 12:45:21 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Your clock now keeps going without your Mac. Dotty sends the screen a whole day of your clock face as one animation that loops, so it carries on when your Mac sleeps or leaves the room. With your Mac away, faces with seconds show just the minutes, and the date and weather stay as they were last sent.</li><li>The screen now shows only what you pick. Dotty empties the screen&#x27;s own playlist each time it connects and each time you pick something. This permanently deletes the factory demo and anything saved on the screen with the iPixel app, starting the first time this version connects.</li><li>Make your own statuses: New status… on the Status tab has a live preview, two lines, a colour and a real emoji, and keeps them with the others.</li><li>A new Praying status, with a mosque.</li><li>Name your screens under Settings, Screen. Blink turns a screen&#x27;s display off and on so you can see which one it is, and scans list the nearest first.</li><li>Statuses stay up. Escape no longer ends one, Back soon, At lunch and Away only clear once you&#x27;ve really been away, and a status survives Dotty restarting.</li><li>Long pages in the menu window now scroll.</li></ul>]]></description>
+      <enclosure url="https://github.com/tareeko/dotty/releases/download/v1.0.2/Dotty.dmg" length="4935200" type="application/octet-stream"
+        sparkle:edSignature="NSWyzWWMnYtdHt/OXnbFzEdtZhGJJO6trYaCyYU94br1xraYOHFP8LsXZFXSSL5k1QC3XJIxDHCOlMIwHViMDg=="/>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Sun, 25 Oct 2026 21:15:58 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
