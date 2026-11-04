@@ -1,14 +1,15 @@
 # Dotty
 
-Dotty is a Mac menu bar app for 32x32 iPixel LED screens. Put the screen on your desk facing the room, and it tells people whether to come over: In a meeting, Deep focus, Back soon, or your own words. The rest of the time it's a clock.
+Dotty is a Mac menu bar app for 32x32 iPixel LED screens. Put the screen on your desk facing the room, and it tells people whether to come over: In a meeting, Deep focus, Back soon, or one you've made yourself. The rest of the time it's a clock.
 
 **[Download Dotty](https://github.com/tareeko/dotty/releases/latest/download/Dotty.dmg)** · **[Buy a license](https://led.tareknology.com/buy)**
 
 ## What it does
 
-- Office statuses: Available, Deep focus, In a meeting, On a call, On air, Do not disturb, Quiet please, Back soon, At lunch, On a break, Away and Low social battery, or two lines of your own. Each can run for a set time or until you clear it.
+- Office statuses: Available, Deep focus, In a meeting, On a call, On air, Do not disturb, Quiet please, Back soon, At lunch, Praying, On a break, Away and Low social battery. Each can run for a set time or until you clear it.
+- Your own statuses, made with a live preview: two lines, a colour and a real emoji drawn on the LEDs.
 - Focus sessions with rounds and breaks. The whole session goes to the screen as one animation, so it keeps counting if your Mac sleeps or leaves the room.
-- 25 clock faces, several with live weather from Open-Meteo.
+- 25 clock faces, several with live weather from Open-Meteo. A whole day of the clock goes to the screen as one looping animation, so it keeps going when your Mac sleeps or leaves the room. While your Mac is away, the date and weather stay as they were last sent.
 - Your own GIFs, videos and pictures, converted to fit the screen.
 - On a call, shown by itself while an app is using your microphone or camera (you can turn this off).
 - A local HTTP API and a `dotty` command-line tool, so scripts, Shortcuts and build jobs can change the screen.
@@ -29,7 +30,9 @@ Everything works free for 14 days. After that the clock keeps working, and statu
 2. Open Dotty. It lives in the menu bar, and the first time it opens its window too.
 3. Allow Bluetooth when macOS asks, then pick your screen under Settings, Screen.
 
-New screens come with a demo animation stored on them that keeps interrupting whatever you send. Dotty offers to delete it when you pair the screen.
+Dotty keeps the screen's own playlist empty, so it shows only what you pick. That permanently deletes the demo animation a new screen comes with, and anything saved on it with the iPixel app. Only choose your own screen.
+
+If other screens are in range, Blink turns a screen's display off and on so you can see which is which, and you can give each one a name. The nearest are listed first.
 
 To activate a license, click Activate in the email on your Mac, or paste the key under Settings, License. To move a license to another Mac, use Remove from this Mac under Settings, License first. If that Mac is gone, Dotty lets you move the seat from the new one.
 
