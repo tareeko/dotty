@@ -9,7 +9,7 @@ Dotty is a Mac menu bar app for 32x32 iPixel LED screens. Put the screen on your
 - Office statuses: Available, Deep focus, In a meeting, On a call, On air, Do not disturb, Quiet please, Back soon, At lunch, Praying, On a break, Away and Low social battery. Each can run for a set time or until you clear it.
 - Your own statuses, made with a live preview: two lines, a colour and a real emoji drawn on the LEDs.
 - Focus sessions with rounds and breaks. The whole session goes to the screen as one animation, so it keeps counting if your Mac sleeps or leaves the room.
-- 25 clock faces, several with live weather from Open-Meteo. A whole day of the clock goes to the screen as one looping animation, so it keeps going when your Mac sleeps or leaves the room. While your Mac is away, the date and weather stay as they were last sent.
+- 25 clock faces, several with live weather from Open-Meteo. The clock goes to the screen as one looping animation, so it keeps going when your Mac sleeps or leaves the room: a whole day, or a week on faces that show the date. While your Mac is away, the weather stays as it was last sent.
 - Your own GIFs, videos and pictures, converted to fit the screen.
 - On a call, shown by itself while an app is using your microphone or camera (you can turn this off).
 - A local HTTP API and a `dotty` command-line tool, so scripts, Shortcuts and build jobs can change the screen.
