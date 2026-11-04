@@ -6,6 +6,16 @@
     <description>Updates for Dotty, a Mac menu bar app for 32x32 iPixel LED screens.</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Wed, 04 Nov 2026 16:16:18 GMT</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A status now shows within about a second, even while a big clock is being sent to the screen. It could take 20 seconds before.</li><li>Fixed the clock starting up to a few minutes late after a status with a &quot;back at&quot; time.</li><li>A timer that runs out now goes back to the clock by itself, even with your Mac gone, instead of sitting on 0:00.</li><li>Media you were showing comes back after Dotty restarts.</li></ul>]]></description>
+      <enclosure url="https://github.com/tareeko/dotty/releases/download/v1.0.4/Dotty.dmg" length="4956689" type="application/octet-stream"
+        sparkle:edSignature="IFcJYB1OafAd75uczaLWg6zKK5KC0MmcW0CqbRw9aoFQ+J/feG2Ec7E1c1N/d/UgsyLUsDuARiU3AuvfyQU6AQ=="/>
+    </item>
+    <item>
       <title>Version 1.0.3</title>
       <pubDate>Wed, 04 Nov 2026 14:18:16 GMT</pubDate>
       <sparkle:version>10</sparkle:version>
