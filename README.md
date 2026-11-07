@@ -17,7 +17,7 @@ Dotty is a Mac menu bar app for 32x32 iPixel LED screens. Put the screen on your
 ## What you need
 
 - A Mac with macOS 14 or later, Apple silicon or Intel.
-- A 32x32 iPixel LED screen, the kind you'd otherwise set up with the iPixel Color phone app. Other sizes aren't supported yet.
+- A 32x32 LED screen made for the iPixel Color phone app. These are generic screens made in China and sold under many brand names, usually as a bare panel about 13 cm square on a suction-cup arm, with a USB cable. Look for the iPixel Color app in the listing, and the 32x32 size: 16x16 and 64x64 versions don't work yet, and look-alike frames that use the iDotMatrix or Divoom apps never will. [led.tareknology.com](https://led.tareknology.com/#screen) has a checklist and listings that match.
 - Bluetooth. The screen takes one connection at a time, so close the iPixel Color app on your phone first.
 
 ## Price
