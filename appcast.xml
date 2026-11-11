@@ -6,6 +6,16 @@
     <description>Updates for Dotty, a Mac menu bar app for 32x32 iPixel LED screens.</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.6</title>
+      <pubDate>Wed, 11 Nov 2026 20:55:03 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Your status now stays on the screen. Before, it could switch to the screen&#x27;s own &quot;LED&quot; picture by itself after Dotty reconnected to the screen.</li><li>Weather is gone, along with the four clock faces built on it: Classic, Classic night, Weather first and Sun arc. If you had one of them, Dotty shows Stacked instead. Dotty no longer sends your place anywhere.</li></ul>]]></description>
+      <enclosure url="https://github.com/tareeko/dotty/releases/download/v1.0.6/Dotty.dmg" length="5118249" type="application/octet-stream"
+        sparkle:edSignature="S8aaCq0mr1aSceMOpgq+gDejteOVGtlLomYInOvexazmwUVluidzz+4DgMd2zPWMgVkMD6cjsMrq1HwLFOHcDw=="/>
+    </item>
+    <item>
       <title>Version 1.0.5</title>
       <pubDate>Wed, 04 Nov 2026 18:53:01 GMT</pubDate>
       <sparkle:version>15</sparkle:version>
